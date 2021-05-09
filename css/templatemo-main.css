@@ -103,9 +103,10 @@ iframe {
 	margin-top: 25%;
 }
 
-a:hover {
-	color: #fff;
+.link {
+	margin-top: 10%;
 }
+
 @-webkit-keyframes fill {
   0% {
     width: 0%;
